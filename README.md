@@ -1,4 +1,4 @@
-# Multi-Node, Multi-GPU Audio Transcription using Snowflake ML Container Runtime
+# Distributed Multi-Node and Multi GPU Audio Transcription with Snowflake ML Container Runtime
 
 ## Overview
 
